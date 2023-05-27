@@ -31,3 +31,6 @@
 
 ### Project 6: Page Progress Indicator (Horizontal)
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/PageProgressIndicator/images/pageProgressIndicator.gif)
+
+### Project 7: Vowels Couting
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/vowelsCounting/images/Vowels_Counting_AdobeExpress.gif)
