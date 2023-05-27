@@ -22,3 +22,6 @@
 
 - counting character of the message (Only typing no other action required)
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/InputCharacterCount/images/character%20count.png)
+
+### Project 4: Increment Counter
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/IncrementCounter/images/giphy.gif)
