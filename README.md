@@ -28,3 +28,6 @@
 
 ### Project 5: Modal & Popup
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/ModalPopup/images/Untitled_Project_AdobeExpress.gif)
+
+### Project 6: Page Progress Indicator (Horizontal)
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/PageProgressIndicator/images/pageProgressIndicator.gif)
