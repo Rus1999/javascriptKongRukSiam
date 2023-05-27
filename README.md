@@ -10,15 +10,15 @@
 
 ### Project 2: Clock display in light/dark mode
 - dark mode
-![]()
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/ClockLightDarkMode/images/darkmode.png)
 
 - light mode
-![]()
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/ClockLightDarkMode/images/lightmode.png)
 
 
 ### Project 3: Character Count
 - before type
-![]()
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/InputCharacterCount/images/start.png)
 
 - counting character of the message (Only typing no other action required)
-![]()
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/InputCharacterCount/images/character%20count.png)
