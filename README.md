@@ -21,7 +21,7 @@
 ### Project 7: Vowels Couting
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/vowelsCounting/images/Vowels_Counting_AdobeExpress.gif)
 
-### Project 8: Scroll to TOp
+### Project 8: Scroll to Top
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/ScrollToTop/images/scrollToTop.gif)
 
 ### Project 9: Password Visibility Toggle
