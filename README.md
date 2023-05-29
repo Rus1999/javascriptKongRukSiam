@@ -4,11 +4,9 @@
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/Click2Copy/images/clicktoCopy.gif)
 
 ### Project 2: Clock display in light/dark mode
-- dark mode
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/ClockLightDarkMode/images/clockDarkLightMode.gif)
 
 ### Project 3: Character Count
-- before type
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/InputCharacterCount/images/InputCharacterCount.gif)
 
 ### Project 4: Increment Counter
