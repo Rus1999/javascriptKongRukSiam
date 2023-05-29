@@ -33,7 +33,7 @@
 ### Project 11: Sticky Navigation
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/StickyNavigation/images/stickynavigation.gif)
 
-### Project 12: Random NOtification
+### Project 12: Random Notification
 ![]()
 
 ### Project 13: Sound Board
