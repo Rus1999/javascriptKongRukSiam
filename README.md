@@ -34,7 +34,7 @@
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/StickyNavigation/images/stickynavigation.gif)
 
 ### Project 12: Random Notification
-![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/StickyNavigation/images/stickynavigation.gif)
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/RandomNotification/images/randomnotification.gif)
 
 ### Project 13: Sound Board
 ![]()
