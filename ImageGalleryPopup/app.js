@@ -18,4 +18,3 @@ modalEl.addEventListener("click", (e)=>{
     modalEl.classList.remove("open")
   }
 })
-
