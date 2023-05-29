@@ -28,7 +28,7 @@
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/PasswordVisibilityToggle/images/passwordVisibilityToggle.gif)
 
 ### Project 10: Image Gallery Popup
-![]()
+![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/ImageGalleryPopup/images/imageGalleryPopup.gif)
 
 ### Project 11: Sticky Navigation
 ![]()
