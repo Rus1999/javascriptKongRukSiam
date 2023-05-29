@@ -22,3 +22,42 @@
 
 ### Project 7: Vowels Couting
 ![](https://github.com/Rus1999/javascriptKongRukSiam/blob/main/vowelsCounting/images/Vowels_Counting_AdobeExpress.gif)
+
+### Project 8: Scroll to TOp
+![]()
+
+### Project 9: Password Visibility Toggle
+![]()
+
+### Project 10: Image Gallery Popup
+![]()
+
+### Project 11: Sticky Navigation
+![]()
+
+### Project 12: Random NOtification
+![]()
+
+### Project 13: Sound Board
+![]()
+
+### Project 14: Cuntries API
+![]()
+
+### Project 15: HIdden Search Widget
+![]()
+
+### Project 16: Temperature Converter
+![]()
+
+### Project 17: SEarch Filter
+![]()
+
+### Project 18: Random Image (Unsplash API)
+![]()
+
+### Project 19: Stop Watch
+![]()
+
+### Project 20: BMI
+![]()
